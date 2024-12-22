@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\MVCProyectyosPorCapas.props" />
+</Project>
